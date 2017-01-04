@@ -84,4 +84,19 @@ toolbars
 			visibleButtons = 
 		}
 	}
+	FLIGHTMAP
+	{
+		toolbar_1216559725
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
 }

@@ -1,0 +1,69 @@
+Executing: KerbalEngineer - 1.1.2.8
+Assembly: D:\GAMES\Steam\steamapps\common\Kerbal Space Program\GameData\KerbalEngineer\KerbalEngineer.dll
+
+[Log 12:57:07.5745213]: images (UnityEngine.AssetBundle)
+[Log 12:58:50.0721623]: Assembly: Assembly-CSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ModuleManager.2.7.5, Version=2.7.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: aaa_Toolbar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: AGExt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: kOSVoidAction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: DMagic, Version=1.3.0.7, Culture=neutral, PublicKeyToken=null
+Assembly: ContractParser, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null
+Assembly: ProgressParser, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+Assembly: CapCom, Version=1.0.2.5, Culture=neutral, PublicKeyToken=null
+Assembly: ContractsWindow, Version=1.0.7.3, Culture=neutral, PublicKeyToken=null
+Assembly: ContractsWindow.Unity, Version=1.0.7.3, Culture=neutral, PublicKeyToken=null
+Assembly: Atmosphere, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: CelestialShadows, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: CityLights, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: EVEManager, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: PartFX, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: PQSManager, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: ShaderLoader, Version=1.5.6131.22337, Culture=neutral, PublicKeyToken=null
+Assembly: Terrain, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: TextureConfig, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: Utils, Version=1.5.6131.22337, Culture=neutral, PublicKeyToken=null
+Assembly: _BuildManager, Version=1.5.6131.22338, Culture=neutral, PublicKeyToken=null
+Assembly: Launchpad, Version=5.6.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KAS, Version=0.6.2.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.1, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer, Version=1.1.2.8, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalEngineer.Unity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: KerbalJointReinforcement, Version=3.3.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: KIS, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSPDev_Utils, Version=0.17.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: KRnD, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: KSTS, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: MechJeb2, Version=2.5.1.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.2, Culture=neutral, PublicKeyToken=null
+Assembly: PartCommanderContinued, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: MiniAVC, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Assembly: PlanetShine, Version=1.0.6121.34655, Culture=neutral, PublicKeyToken=null
+Assembly: ReentryParticleEffect, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: scatterer, Version=1.0.6134.38560, Culture=neutral, PublicKeyToken=null
+Assembly: CLSInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: ShipManifest, Version=5.1.3.1, Culture=neutral, PublicKeyToken=null
+Assembly: KSPSteamCtrlr, Version=0.0.1.35, Culture=neutral, PublicKeyToken=null
+Assembly: Steamworks.NET, Version=9.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: TextureReplacer, Version=2.5.4.0, Culture=neutral, PublicKeyToken=null
+Assembly: YongeTech_TreeConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: YongeTech_RDIconLoader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Assembly: YongeTech_TechTreesExpansion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+[Exception 13:04:45.8773696]: Object reference not set to an instance of an object
+[]:   at KerbalEngineer.Editor.BuildOverlayResources.OnGUI () [0x00000] in <filename unknown>:0 
+
+[Exception 13:04:45.8778714]: Object reference not set to an instance of an object
+[]:   at KerbalEngineer.Editor.BuildOverlayResources.OnGUI () [0x00000] in <filename unknown>:0 
+
+[Log 13:04:46.0132314]: BuildAdvanced->OnDestroy
+[Log 13:04:47.0174030]: ActionMenu->Awake
+[Log 13:04:47.0184055]: FlightEngineerCore->Awake
+[Log 13:04:51.0010011]: ActionMenu->Start
+[Log 13:04:51.0215557]: FlightEngineerCore->Start
+[Log 13:15:25.4708959]: ActionMenu->OnDestroy
+[Log 13:15:25.4744051]: FlightEngineerCore->OnDestroy

@@ -1,0 +1,31 @@
+{
+	"NAME":"ReentryParticleEffect",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=314",
+	"DOWNLOAD":"http://kerbal.curseforge.com/projects/reentry-particle-effects",
+	"CHANGE_LOG_URL":"http://forum.kerbalspaceprogram.com/index.php?/topic/143040-113-reentry-particle-effect/",
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0,
+		"BUILD":1
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":9
+	}
+}
