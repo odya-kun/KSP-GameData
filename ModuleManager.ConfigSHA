@@ -1,4 +1,4 @@
-SHA = ED-74-E2-5C-CF-89-0B-69-9B-C3-BF-D3-E8-03-53-2A-8D-86-CF-4B-B4-ED-1A-F2-34-5E-08-C5-03-03-D9-79
+SHA = A5-E8-95-ED-24-03-C7-65-8E-A2-B2-CB-0C-1C-CE-E4-BC-C6-79-DF-0D-AB-5F-8C-8C-28-DD-4C-30-71-03-2D
 version = 2.7.5.0
 KSPVersion = 1.2.2.1622
 FilesSHA
@@ -7,6 +7,46 @@ FilesSHA
 	{
 		filename = /MechJebAndEngineerForAll
 		SHA = 57-BE-9C-19-C9-E5-EF-63-0B-D3-84-B5-FA-EB-7C-CD-A0-1B-53-FF-63-F1-AE-99-A9-7B-79-9B-88-0B-CE-1F
+	}
+	FILE
+	{
+		filename = BoulderCo/pqs
+		SHA = D4-06-12-5A-12-2A-10-4F-86-86-FC-34-E4-6D-FB-21-96-BC-61-F0-72-D9-DE-0F-82-94-36-50-C6-CC-2A-86
+	}
+	FILE
+	{
+		filename = BoulderCo/shadows
+		SHA = 61-8D-76-06-6D-06-0F-13-7C-6D-85-71-BB-1B-F5-E1-7C-0A-1B-4E-94-A6-95-DB-12-62-BA-FD-2B-C9-BE-AA
+	}
+	FILE
+	{
+		filename = BoulderCo/textures
+		SHA = 0A-44-B8-4F-12-E4-B6-55-AB-1F-94-06-14-B7-A8-0B-81-88-BA-30-15-58-E1-4D-F6-8B-EC-F0-4A-A4-57-17
+	}
+	FILE
+	{
+		filename = BoulderCo/Atmosphere/aurora-lightning
+		SHA = D4-27-13-01-A3-59-B6-31-A8-0A-22-10-A3-93-9A-FE-1D-10-62-C1-2E-C7-89-B5-49-79-47-14-BA-CC-DE-F1
+	}
+	FILE
+	{
+		filename = BoulderCo/Atmosphere/clouds
+		SHA = 0C-1C-A4-47-C1-8E-41-A6-24-9F-30-31-40-7A-9B-48-E2-F4-CE-0D-D3-22-32-E5-70-45-79-9E-4F-13-EC-0F
+	}
+	FILE
+	{
+		filename = BoulderCo/Atmosphere/storms-snowstorms
+		SHA = 10-65-2B-1E-3A-D0-83-84-64-16-5F-1F-A6-DB-88-1B-7F-D8-B7-1A-B3-03-D6-6D-D4-BD-8D-86-66-D5-6B-F7
+	}
+	FILE
+	{
+		filename = BoulderCo/Atmosphere/surface_glow
+		SHA = C1-87-28-F2-1E-61-F8-99-75-1B-35-7C-28-93-F7-01-75-08-9D-24-B9-46-37-5B-ED-72-07-59-7F-48-0A-4F
+	}
+	FILE
+	{
+		filename = BoulderCo/Atmosphere/Textures/textures
+		SHA = 12-21-22-64-BE-E4-C9-37-E0-62-1C-D7-C9-0B-97-D7-95-24-D6-98-0C-71-EA-62-0C-1F-2E-48-41-52-92-4C
 	}
 	FILE
 	{
@@ -1041,7 +1081,7 @@ FilesSHA
 	FILE
 	{
 		filename = scatterer/config/config
-		SHA = CA-7A-67-8F-B6-32-39-22-E5-DD-C8-0F-7A-1E-FF-31-A3-2A-CF-AB-74-85-A3-A8-AE-BE-A0-61-A2-D4-0E-78
+		SHA = 46-40-6B-03-BB-6B-3E-88-0C-6C-D7-43-58-FA-16-29-02-AD-54-A7-93-9A-96-43-59-7A-7A-4C-71-E8-8D-53
 	}
 	FILE
 	{
